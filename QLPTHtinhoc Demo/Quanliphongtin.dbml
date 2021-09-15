@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLPhongTin" Class="QuanliphongtinDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\Projects;Initial Catalog=QLPhongTin;Integrated Security=True;Connect Timeout=30" SettingsObjectName="QLPTHtinhoc_Demo.Properties.Settings" SettingsPropertyName="QLPhongTinConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CLASS" Member="CLASSes">
+    <Type Name="CLASS">
+      <Column Name="MALOP" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TENLOP" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SOHOCSINH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GVCN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KHOI" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="CLASS_PCCP" Member="PCCPs" ThisKey="MALOP" OtherKey="MALOP" Type="PCCP" />
+      <Association Name="CLASS_TIETHOC" Member="TIETHOCs" ThisKey="MALOP" OtherKey="MALOP" Type="TIETHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GIAOVIEN" Member="GIAOVIENs">
+    <Type Name="GIAOVIEN">
+      <Column Name="MAGV" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CHUYENMON" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="GIAOVIEN_PCCP" Member="PCCPs" ThisKey="MAGV" OtherKey="MAGV" Type="PCCP" />
+      <Association Name="GIAOVIEN_TIETHOC" Member="TIETHOCs" ThisKey="MAGV" OtherKey="MAGV" Type="TIETHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MONHOC" Member="MONHOCs">
+    <Type Name="MONHOC">
+      <Column Name="MAMON" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAMESUBJECT" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="MONHOC_Table" Member="Tables" ThisKey="MAMON" OtherKey="MAMON" Type="Table" />
+      <Association Name="MONHOC_TIETHOC" Member="TIETHOCs" ThisKey="MAMON" OtherKey="MAMON" Type="TIETHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PCCP" Member="PCCPs">
+    <Type Name="PCCP">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MAGV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MALOP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="GIAOVIEN_PCCP" Member="GIAOVIEN" ThisKey="MAGV" OtherKey="MAGV" Type="GIAOVIEN" IsForeignKey="true" />
+      <Association Name="CLASS_PCCP" Member="CLASS" ThisKey="MALOP" OtherKey="MALOP" Type="CLASS" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PHONGMAY" Member="PHONGMAYs">
+    <Type Name="PHONGMAY">
+      <Column Name="MAPHONG" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SOMAY" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STATUT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="PHONGMAY_TIETHOC" Member="TIETHOCs" ThisKey="MAPHONG" OtherKey="MAPHONG" Type="TIETHOC" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Table]" Member="Tables">
+    <Type Name="Table">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MAMON" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="MONHOC_Table" Member="MONHOC" ThisKey="MAMON" OtherKey="MAMON" Type="MONHOC" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TIETHOC" Member="TIETHOCs">
+    <Type Name="TIETHOC">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MAMON" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MAGV" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MAPHONG" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MALOP" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TENBAI" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="THOIGIAN" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TIET" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TIETPPCT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="GIAOVIEN_TIETHOC" Member="GIAOVIEN" ThisKey="MAGV" OtherKey="MAGV" Type="GIAOVIEN" IsForeignKey="true" />
+      <Association Name="CLASS_TIETHOC" Member="CLASS" ThisKey="MALOP" OtherKey="MALOP" Type="CLASS" IsForeignKey="true" />
+      <Association Name="MONHOC_TIETHOC" Member="MONHOC" ThisKey="MAMON" OtherKey="MAMON" Type="MONHOC" IsForeignKey="true" />
+      <Association Name="PHONGMAY_TIETHOC" Member="PHONGMAY" ThisKey="MAPHONG" OtherKey="MAPHONG" Type="PHONGMAY" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="IDLogin" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Level]" Member="Level" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

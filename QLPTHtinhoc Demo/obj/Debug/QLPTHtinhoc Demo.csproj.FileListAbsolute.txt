@@ -1,0 +1,100 @@
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe.config
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csprojResolveAssemblyReference.cache
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Properties.Resources.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.GenerateResource.Cache
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.exe
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Desktop.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormLogin.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormGiaoVien.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormMonHoc.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPhongMay.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormTietHoc.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPCCM.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormQLLophoc.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormThongke.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.AddLesson.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FEditLesson.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\ASPNET_MVC\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FED.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe.config
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.exe
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csprojResolveAssemblyReference.cache
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Desktop.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FED.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FEditLesson.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormGiaoVien.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormLogin.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormMonHoc.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPCCM.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPhongMay.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormQLLophoc.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormThongke.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormTietHoc.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.AddLesson.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Properties.Resources.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.GenerateResource.Cache
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormUser.resources
+C:\Users\ABC\Documents\Visual Studio 2013\Projects\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.EditPass.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe.config
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.AssemblyReference.cache
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Desktop.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.EditPass.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FED.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FEditLesson.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormGiaoVien.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormLogin.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormMonHoc.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPCCM.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPhongMay.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormQLLophoc.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormThongke.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormTietHoc.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.AddLesson.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormUser.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Properties.Resources.resources
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.GenerateResource.cache
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.CoreCompileInputs.cache
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.exe
+C:\Users\T440S\Downloads\QLPTHtinhoc Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\Desktop.PNG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\dãu.PNG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\icon.PNG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\PCCM.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\QLgiaovien.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\QLLophoc.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\QLMonhoc.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\QLPhongTin.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\QLTiethoc.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\thongke.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\tong-hop-hinh-nen-dien-thoai-de-thuong-xinh-xan-nhat-cho-dien-thoai-them-ca-tinh-dang-yeu-2.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\Images\user.PNG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe.config
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.exe
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\bin\Debug\QLPTHtinhoc Demo.pdb
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.AssemblyReference.cache
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Desktop.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.EditPass.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FED.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FEditLesson.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormGiaoVien.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormLogin.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormMonHoc.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPCCM.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormPhongMay.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormQLLophoc.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormThongke.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormTietHoc.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.AddLesson.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.FormUser.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc_Demo.Properties.Resources.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.GenerateResource.cache
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.csproj.CoreCompileInputs.cache
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.exe
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\QLPTHtinhoc-Demo\QLPTHtinhoc Demo\obj\Debug\QLPTHtinhoc Demo.pdb
